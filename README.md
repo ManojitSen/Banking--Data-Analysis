@@ -32,8 +32,8 @@ The dashboard is designed to answer the following key business and risk-related 
 - Which banking relationship types or periods show higher lending and better engagement?
    - Supports strategic planning and risk optimization.
 - Dashboard Interaction
-- <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Home_Screenshot.jpg">View Dashboard(Home)</a>
-- <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Loan%20Analysis_Screenshot.jpg">View Dashboard(Loan Analysis)</a>
-- <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Deposit%20Analysis_Screenshot.jpg">View Dashboard(Deposit Analysis)</a>
-- <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Summary%20Dashboard%20_Screenshot.jpg">View Dashboard(Summary)</a>
+ - <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Home_Screenshot.jpg">Home(View Dashboard)</a>
+ - <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Loan%20Analysis_Screenshot.jpg">Loan Analysis(View Dashboard)</a>
+ - <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Deposit%20Analysis_Screenshot.jpg">Deposit Analysis(View Dashboard)</a>
+ - <a href="https://github.com/ManojitSen/Banking--Data-Analysis/blob/main/Summary%20Dashboard%20_Screenshot.jpg">Summary(View Dashboard)</a>
 
