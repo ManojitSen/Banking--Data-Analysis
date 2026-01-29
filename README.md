@@ -57,6 +57,30 @@ The dashboard is designed to answer the following key business and risk-related 
 ## Summary_Dashboard
 ![Summary Dashboard_Screenshot](https://github.com/user-attachments/assets/8e143f9f-8d2c-49a1-bb38-66636a840a91)
 
+## Project Insights
+-  The dashboard provides a comprehensive view of client-level risk by analyzing loans, deposits, fees, and engagement metrics.
+- Clients with longer engagement periods tend to maintain higher deposits and demonstrate more stable banking relationships.
+- Bank loans constitute the largest share of total lending compared to business lending and credit card balances.
+- Low and mid-income bands account for a major portion of loan distribution, making income-based risk segmentation essential.
+- Clients with higher deposit balances generally show better repayment capacity and lower financial risk.
+- Credit card balances highlight short-term credit exposure, particularly among clients with lower deposits.
+- Processing fees generate significant revenue from high-loan-value clients, contributing to overall bank profitability.
+- Private banks have a higher number of clients compared to other bank types, indicating stronger customer acquisition.
+- Deposit amounts vary across different account types such as savings, checking, bank deposits, and foreign currency accounts.
+- Engagement metrics help identify long-term clients who contribute more consistently to deposits and lending stability.
+- Nationality-wise analysis shows variations in loan amounts, helping identify regions with higher credit exposure.
+- Advisor and banking relationship analysis supports better understanding of client behavior and risk distribution over time.
+
+## Conclusion 
+Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking  operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
+
+##  Future Work 
+-  With these dashboards banks can easily know what is the total loan amount and all other things of a particular investor.
+- It also helps which type of banks have more number of clients as we can see private banks have more number of clients so it can helps other banks can build their strategies to increase clients.
+- It also provides insights about which nationality has highest bank loans.
+- It gives information about various types of amount involved in different types of accounts by investors.
+
+
 
 
 
