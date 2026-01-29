@@ -45,11 +45,18 @@ The dashboard is designed to answer the following key business and risk-related 
 - Analysed loans, deposits, fees, and client engagement to assess risk and profitability.
 - Designed interactive Power BI dashboards for loan analysis, deposit analysis, and overall summary to support data-driven lending decisions.
 
-## Dashboards
- - ![Home_Screenshot](https://github.com/user-attachments/assets/90b612e6-cb77-4630-982d-5cbf12fe1e4b)
- - ![Loan Analysis_Screenshot](https://github.com/user-attachments/assets/12e6514d-f5b3-4666-ad3f-323f9a3422c3)
- - ![Deposit Analysis_Screenshot](https://github.com/user-attachments/assets/0ed92c18-35ab-461a-92f7-9d6168654fcc)
- - ![Summary Dashboard _Screenshot](https://github.com/user-attachments/assets/8e143f9f-8d2c-49a1-bb38-66636a840a91)
+## Home_Dashboard
+![Home_Screenshot](https://github.com/user-attachments/assets/90b612e6-cb77-4630-982d-5cbf12fe1e4b)
+
+## Loan_Analysis_Dashboard
+![Loan Analysis_Screenshot](https://github.com/user-attachments/assets/12e6514d-f5b3-4666-ad3f-323f9a3422c3)
+
+## Deposit_Analysis_Dashboard
+![Deposit Analysis_Screenshot](https://github.com/user-attachments/assets/0ed92c18-35ab-461a-92f7-9d6168654fcc)
+
+## Summary_Dashboard
+![Summary Dashboard_Screenshot](https://github.com/user-attachments/assets/8e143f9f-8d2c-49a1-bb38-66636a840a91)
+
 
 
 
